@@ -1,6 +1,6 @@
 function sumoftwo(a,b){
   var sum=a+b;
-  alert("sum of two numbers are "+sum);
+  return sum;
 }
 sumoftwo(10,20);
 
